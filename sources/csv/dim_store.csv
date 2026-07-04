@@ -1,0 +1,251 @@
+StoreID,StoreName,StoreType,City,State,Tier,Region,OpenDate,IsActive,FloorAreaSqFt,MonthlyRentINR,RevenuePotentialCr,ManagerID
+STR0001,RetailPulse Mumbai Flagship 1,Flagship Store,Mumbai,Maharashtra,Tier 1,West,2016-01-01,True,14710,1736035,12.85,EMP6086
+STR0002,RetailPulse Delhi Express 2,Express Store,Delhi,Delhi,Tier 1,North,2019-01-01,True,2367,2839831,14.68,EMP6895
+STR0003,RetailPulse Bangalore Flagship 3,Flagship Store,Bangalore,Karnataka,Tier 1,South,2014-02-01,False,2406,2876509,8.84,EMP4272
+STR0004,RetailPulse Hyderabad Online 4,Online Only,Hyderabad,Telangana,Tier 1,South,2014-04-01,True,0,0,16.0,EMP4143
+STR0005,RetailPulse Chennai Online 5,Online Only,Chennai,Tamil Nadu,Tier 1,South,2018-09-01,True,0,0,19.65,EMP8768
+STR0006,RetailPulse Kolkata Flagship 6,Flagship Store,Kolkata,West Bengal,Tier 1,East,2020-06-01,True,13584,4516665,19.99,EMP3280
+STR0007,RetailPulse Pune Shop-in-Shop 7,Shop-in-Shop,Pune,Maharashtra,Tier 1,West,2017-09-01,True,3112,1236690,10.19,EMP3520
+STR0008,RetailPulse Ahmedabad Express 8,Express Store,Ahmedabad,Gujarat,Tier 1,West,2020-06-01,True,11236,3586774,15.1,EMP3802
+STR0009,RetailPulse Jaipur Express 9,Express Store,Jaipur,Rajasthan,Tier 2,West,2014-03-01,True,5634,2477342,7.08,EMP5751
+STR0010,RetailPulse Lucknow Online 10,Online Only,Lucknow,Uttar Pradesh,Tier 2,North,2015-03-01,True,0,0,7.05,EMP6274
+STR0011,RetailPulse Surat Express 11,Express Store,Surat,Gujarat,Tier 2,West,2016-04-01,True,11798,2268384,8.81,EMP5400
+STR0012,RetailPulse Kochi Express 12,Express Store,Kochi,Kerala,Tier 2,South,2013-10-01,True,14387,1712803,6.86,EMP4631
+STR0013,RetailPulse Nagpur Express 13,Express Store,Nagpur,Maharashtra,Tier 2,West,2014-11-01,True,12620,2110065,9.72,EMP5407
+STR0014,RetailPulse Indore Express 14,Express Store,Indore,Madhya Pradesh,Tier 2,North,2021-05-01,True,4343,2866861,4.23,EMP9654
+STR0015,RetailPulse Bhopal Express 15,Express Store,Bhopal,Madhya Pradesh,Tier 2,North,2016-05-01,True,14734,2583552,8.67,EMP5193
+STR0016,RetailPulse Visakhapatnam Flagship 16,Flagship Store,Visakhapatnam,Telangana,Tier 2,South,2012-09-01,True,5307,2239795,9.31,EMP4623
+STR0017,RetailPulse Patna Express 17,Express Store,Patna,Bihar,Tier 2,East,2016-12-01,False,7124,2358424,6.46,EMP6658
+STR0018,RetailPulse Vadodara Shop-in-Shop 18,Shop-in-Shop,Vadodara,Gujarat,Tier 2,West,2018-06-01,True,10846,2053773,5.98,EMP4813
+STR0019,RetailPulse Ludhiana Express 19,Express Store,Ludhiana,Punjab,Tier 2,North,2020-10-01,True,12231,2911975,7.48,EMP3395
+STR0020,RetailPulse Coimbatore Express 20,Express Store,Coimbatore,Tamil Nadu,Tier 2,South,2018-03-01,True,9141,2930487,5.1,EMP2258
+STR0021,RetailPulse Madurai Express 21,Express Store,Madurai,Tamil Nadu,Tier 2,South,2014-12-01,True,6183,3887849,4.24,EMP2539
+STR0022,RetailPulse Nashik Flagship 22,Flagship Store,Nashik,Maharashtra,Tier 2,West,2021-10-01,True,14406,2228598,8.7,EMP6214
+STR0023,RetailPulse Mysore Express 23,Express Store,Mysore,Karnataka,Tier 2,South,2020-06-01,True,3873,2094466,7.99,EMP3092
+STR0024,RetailPulse Ranchi Express 24,Express Store,Ranchi,Jharkhand,Tier 2,East,2014-05-01,False,8982,2039178,4.89,EMP5111
+STR0025,RetailPulse Raipur Online 25,Online Only,Raipur,Chhattisgarh,Tier 2,North,2013-01-01,True,0,0,8.71,EMP5340
+STR0026,RetailPulse Bhubaneswar Express 26,Express Store,Bhubaneswar,Odisha,Tier 2,East,2012-10-01,True,7485,690651,5.37,EMP8943
+STR0027,RetailPulse Agra Shop-in-Shop 27,Shop-in-Shop,Agra,Uttar Pradesh,Tier 3,North,2019-09-01,True,12396,945735,4.7,EMP2332
+STR0028,RetailPulse Varanasi Shop-in-Shop 28,Shop-in-Shop,Varanasi,Uttar Pradesh,Tier 3,North,2021-08-01,True,5617,585780,1.83,EMP5788
+STR0029,RetailPulse Meerut Express 29,Express Store,Meerut,Uttar Pradesh,Tier 3,North,2015-04-01,True,839,710895,4.31,EMP8249
+STR0030,RetailPulse Amritsar Express 30,Express Store,Amritsar,Punjab,Tier 3,North,2021-10-01,True,3281,1537633,2.02,EMP5922
+STR0031,RetailPulse Jodhpur Online 31,Online Only,Jodhpur,Rajasthan,Tier 3,West,2013-11-01,True,0,0,4.14,EMP1051
+STR0032,RetailPulse Udaipur Shop-in-Shop 32,Shop-in-Shop,Udaipur,Rajasthan,Tier 3,West,2012-06-01,True,11762,714303,2.88,EMP9349
+STR0033,RetailPulse Guwahati Shop-in-Shop 33,Shop-in-Shop,Guwahati,Assam,Tier 3,East,2021-05-01,True,1142,521276,3.72,EMP9699
+STR0034,RetailPulse Mangalore Express 34,Express Store,Mangalore,Karnataka,Tier 3,South,2015-02-01,True,4010,784089,4.19,EMP7518
+STR0035,RetailPulse Hubli Express 35,Express Store,Hubli,Karnataka,Tier 3,South,2012-07-01,True,2206,1090427,4.88,EMP3064
+STR0036,RetailPulse Tiruchirappalli Shop-in-Shop 36,Shop-in-Shop,Tiruchirappalli,Tamil Nadu,Tier 3,South,2019-10-01,True,12819,935084,4.75,EMP9240
+STR0037,RetailPulse Tirupati Express 37,Express Store,Tirupati,Telangana,Tier 3,South,2016-01-01,True,10274,1902664,2.42,EMP9788
+STR0038,RetailPulse Vijayawada Flagship 38,Flagship Store,Vijayawada,Telangana,Tier 3,South,2018-12-01,True,10374,830382,4.16,EMP7171
+STR0039,RetailPulse Warangal Flagship 39,Flagship Store,Warangal,Telangana,Tier 3,South,2020-03-01,True,6016,482884,2.0,EMP3833
+STR0040,RetailPulse Rajkot Online 40,Online Only,Rajkot,Gujarat,Tier 3,West,2018-12-01,True,0,0,4.17,EMP3035
+STR0041,RetailPulse Jabalpur Shop-in-Shop 41,Shop-in-Shop,Jabalpur,Madhya Pradesh,Tier 3,North,2019-01-01,True,7289,1632689,3.6,EMP6389
+STR0042,RetailPulse Gwalior Flagship 42,Flagship Store,Gwalior,Madhya Pradesh,Tier 3,North,2020-12-01,True,10421,1777908,3.56,EMP5341
+STR0043,RetailPulse Dhanbad Shop-in-Shop 43,Shop-in-Shop,Dhanbad,Jharkhand,Tier 3,East,2014-06-01,True,6837,656864,3.7,EMP4279
+STR0044,RetailPulse Jamshedpur Shop-in-Shop 44,Shop-in-Shop,Jamshedpur,Jharkhand,Tier 3,East,2014-06-01,True,2516,230809,3.69,EMP5765
+STR0045,RetailPulse Bareilly Flagship 45,Flagship Store,Bareilly,Uttar Pradesh,Tier 3,North,2013-04-01,True,1929,1626231,4.37,EMP6606
+STR0046,RetailPulse Aligarh Flagship 46,Flagship Store,Aligarh,Uttar Pradesh,Tier 3,North,2019-11-01,True,8118,1206587,4.0,EMP5402
+STR0047,RetailPulse Moradabad Express 47,Express Store,Moradabad,Uttar Pradesh,Tier 3,North,2016-11-01,True,3956,788360,3.6,EMP3876
+STR0048,RetailPulse Saharanpur Express 48,Express Store,Saharanpur,Uttar Pradesh,Tier 3,North,2020-10-01,True,6070,660296,2.7,EMP2448
+STR0049,RetailPulse Gorakhpur Express 49,Express Store,Gorakhpur,Uttar Pradesh,Tier 3,North,2019-01-01,True,6243,700018,2.83,EMP6762
+STR0050,RetailPulse Bikaner Online 50,Online Only,Bikaner,Rajasthan,Tier 3,West,2020-05-01,True,0,0,2.31,EMP9484
+STR0051,RetailPulse Mumbai Online 51,Online Only,Mumbai,Maharashtra,Tier 1,West,2019-09-01,True,0,0,11.82,EMP8181
+STR0052,RetailPulse Delhi Express 52,Express Store,Delhi,Delhi,Tier 1,North,2021-06-01,True,8781,3376579,8.09,EMP4930
+STR0053,RetailPulse Bangalore Online 53,Online Only,Bangalore,Karnataka,Tier 1,South,2015-12-01,True,0,0,19.49,EMP5466
+STR0054,RetailPulse Hyderabad Shop-in-Shop 54,Shop-in-Shop,Hyderabad,Telangana,Tier 1,South,2021-09-01,True,7397,2623806,9.71,EMP9746
+STR0055,RetailPulse Chennai Online 55,Online Only,Chennai,Tamil Nadu,Tier 1,South,2013-09-01,True,0,0,19.86,EMP1131
+STR0056,RetailPulse Kolkata Online 56,Online Only,Kolkata,West Bengal,Tier 1,East,2019-05-01,True,0,0,19.15,EMP7762
+STR0057,RetailPulse Pune Online 57,Online Only,Pune,Maharashtra,Tier 1,West,2014-05-01,True,0,0,11.62,EMP1394
+STR0058,RetailPulse Ahmedabad Online 58,Online Only,Ahmedabad,Gujarat,Tier 1,West,2017-12-01,True,0,0,9.21,EMP9388
+STR0059,RetailPulse Jaipur Online 59,Online Only,Jaipur,Rajasthan,Tier 2,West,2021-02-01,True,0,0,5.84,EMP9706
+STR0060,RetailPulse Lucknow Flagship 60,Flagship Store,Lucknow,Uttar Pradesh,Tier 2,North,2021-03-01,True,1238,1213408,8.6,EMP5053
+STR0061,RetailPulse Surat Express 61,Express Store,Surat,Gujarat,Tier 2,West,2015-12-01,True,10340,685690,4.85,EMP2722
+STR0062,RetailPulse Kochi Flagship 62,Flagship Store,Kochi,Kerala,Tier 2,South,2019-02-01,True,5603,679214,8.49,EMP5375
+STR0063,RetailPulse Nagpur Flagship 63,Flagship Store,Nagpur,Maharashtra,Tier 2,West,2016-03-01,True,7457,1311852,5.07,EMP7412
+STR0064,RetailPulse Indore Express 64,Express Store,Indore,Madhya Pradesh,Tier 2,North,2013-09-01,True,3716,2365007,5.83,EMP7562
+STR0065,RetailPulse Bhopal Express 65,Express Store,Bhopal,Madhya Pradesh,Tier 2,North,2018-04-01,True,7174,1037896,6.26,EMP4628
+STR0066,RetailPulse Visakhapatnam Express 66,Express Store,Visakhapatnam,Telangana,Tier 2,South,2015-06-01,True,4927,1248283,8.31,EMP8270
+STR0067,RetailPulse Patna Express 67,Express Store,Patna,Bihar,Tier 2,East,2019-05-01,True,7184,2975677,4.16,EMP8355
+STR0068,RetailPulse Vadodara Express 68,Express Store,Vadodara,Gujarat,Tier 2,West,2021-07-01,True,5636,2168584,5.17,EMP1951
+STR0069,RetailPulse Ludhiana Express 69,Express Store,Ludhiana,Punjab,Tier 2,North,2018-12-01,True,6698,512681,5.66,EMP2421
+STR0070,RetailPulse Coimbatore Express 70,Express Store,Coimbatore,Tamil Nadu,Tier 2,South,2021-11-01,True,893,1914170,7.6,EMP6250
+STR0071,RetailPulse Madurai Express 71,Express Store,Madurai,Tamil Nadu,Tier 2,South,2014-01-01,True,1967,2735272,6.09,EMP4377
+STR0072,RetailPulse Nashik Express 72,Express Store,Nashik,Maharashtra,Tier 2,West,2016-01-01,True,11375,1563103,7.6,EMP1399
+STR0073,RetailPulse Mysore Online 73,Online Only,Mysore,Karnataka,Tier 2,South,2016-03-01,True,0,0,5.91,EMP6106
+STR0074,RetailPulse Ranchi Online 74,Online Only,Ranchi,Jharkhand,Tier 2,East,2016-08-01,False,0,0,7.56,EMP4584
+STR0075,RetailPulse Raipur Online 75,Online Only,Raipur,Chhattisgarh,Tier 2,North,2015-04-01,True,0,0,6.55,EMP3021
+STR0076,RetailPulse Bhubaneswar Shop-in-Shop 76,Shop-in-Shop,Bhubaneswar,Odisha,Tier 2,East,2018-02-01,True,8128,2484455,5.87,EMP8236
+STR0077,RetailPulse Agra Flagship 77,Flagship Store,Agra,Uttar Pradesh,Tier 3,North,2016-03-01,True,10178,1205443,2.73,EMP4967
+STR0078,RetailPulse Varanasi Express 78,Express Store,Varanasi,Uttar Pradesh,Tier 3,North,2012-02-01,True,10826,715130,4.03,EMP8230
+STR0079,RetailPulse Meerut Shop-in-Shop 79,Shop-in-Shop,Meerut,Uttar Pradesh,Tier 3,North,2013-01-01,True,4739,770958,2.43,EMP1269
+STR0080,RetailPulse Amritsar Express 80,Express Store,Amritsar,Punjab,Tier 3,North,2012-09-01,True,6156,1168026,4.78,EMP5891
+STR0081,RetailPulse Jodhpur Shop-in-Shop 81,Shop-in-Shop,Jodhpur,Rajasthan,Tier 3,West,2021-08-01,True,12157,1022498,2.26,EMP6057
+STR0082,RetailPulse Udaipur Flagship 82,Flagship Store,Udaipur,Rajasthan,Tier 3,West,2013-06-01,True,12510,1672809,2.7,EMP9152
+STR0083,RetailPulse Guwahati Online 83,Online Only,Guwahati,Assam,Tier 3,East,2016-04-01,True,0,0,2.45,EMP2009
+STR0084,RetailPulse Mangalore Express 84,Express Store,Mangalore,Karnataka,Tier 3,South,2016-04-01,True,2041,587511,3.05,EMP7695
+STR0085,RetailPulse Hubli Online 85,Online Only,Hubli,Karnataka,Tier 3,South,2021-09-01,True,0,0,2.79,EMP7475
+STR0086,RetailPulse Tiruchirappalli Shop-in-Shop 86,Shop-in-Shop,Tiruchirappalli,Tamil Nadu,Tier 3,South,2018-03-01,True,1917,525954,2.51,EMP7261
+STR0087,RetailPulse Tirupati Online 87,Online Only,Tirupati,Telangana,Tier 3,South,2017-11-01,True,0,0,4.28,EMP9819
+STR0088,RetailPulse Vijayawada Express 88,Express Store,Vijayawada,Telangana,Tier 3,South,2019-10-01,True,6498,1102685,3.28,EMP1297
+STR0089,RetailPulse Warangal Online 89,Online Only,Warangal,Telangana,Tier 3,South,2021-08-01,True,0,0,4.73,EMP3817
+STR0090,RetailPulse Rajkot Express 90,Express Store,Rajkot,Gujarat,Tier 3,West,2012-08-01,True,3207,1137880,4.68,EMP3754
+STR0091,RetailPulse Jabalpur Online 91,Online Only,Jabalpur,Madhya Pradesh,Tier 3,North,2012-03-01,True,0,0,4.1,EMP8175
+STR0092,RetailPulse Gwalior Express 92,Express Store,Gwalior,Madhya Pradesh,Tier 3,North,2020-03-01,True,10811,732561,2.07,EMP3118
+STR0093,RetailPulse Dhanbad Online 93,Online Only,Dhanbad,Jharkhand,Tier 3,East,2015-07-01,True,0,0,1.52,EMP4697
+STR0094,RetailPulse Jamshedpur Online 94,Online Only,Jamshedpur,Jharkhand,Tier 3,East,2018-06-01,True,0,0,2.96,EMP9528
+STR0095,RetailPulse Bareilly Shop-in-Shop 95,Shop-in-Shop,Bareilly,Uttar Pradesh,Tier 3,North,2012-05-01,True,5558,263836,2.31,EMP6588
+STR0096,RetailPulse Aligarh Flagship 96,Flagship Store,Aligarh,Uttar Pradesh,Tier 3,North,2012-05-01,True,5444,333887,2.32,EMP6495
+STR0097,RetailPulse Moradabad Shop-in-Shop 97,Shop-in-Shop,Moradabad,Uttar Pradesh,Tier 3,North,2015-06-01,True,4514,1790151,3.22,EMP8777
+STR0098,RetailPulse Saharanpur Online 98,Online Only,Saharanpur,Uttar Pradesh,Tier 3,North,2017-07-01,True,0,0,2.64,EMP4685
+STR0099,RetailPulse Gorakhpur Flagship 99,Flagship Store,Gorakhpur,Uttar Pradesh,Tier 3,North,2017-10-01,True,8903,430808,2.89,EMP8245
+STR0100,RetailPulse Bikaner Online 100,Online Only,Bikaner,Rajasthan,Tier 3,West,2012-09-01,True,0,0,4.26,EMP4231
+STR0101,RetailPulse Mumbai Flagship 101,Flagship Store,Mumbai,Maharashtra,Tier 1,West,2013-10-01,True,10799,3616210,11.53,EMP6783
+STR0102,RetailPulse Delhi Online 102,Online Only,Delhi,Delhi,Tier 1,North,2019-03-01,True,0,0,18.59,EMP3080
+STR0103,RetailPulse Bangalore Flagship 103,Flagship Store,Bangalore,Karnataka,Tier 1,South,2014-07-01,True,13289,3559805,15.99,EMP9498
+STR0104,RetailPulse Hyderabad Express 104,Express Store,Hyderabad,Telangana,Tier 1,South,2020-08-01,True,12643,857155,19.54,EMP7025
+STR0105,RetailPulse Chennai Express 105,Express Store,Chennai,Tamil Nadu,Tier 1,South,2018-11-01,True,3846,2940356,10.79,EMP7010
+STR0106,RetailPulse Kolkata Express 106,Express Store,Kolkata,West Bengal,Tier 1,East,2017-10-01,True,7143,1297891,11.34,EMP3420
+STR0107,RetailPulse Pune Express 107,Express Store,Pune,Maharashtra,Tier 1,West,2013-07-01,True,8362,4767243,10.74,EMP6361
+STR0108,RetailPulse Ahmedabad Express 108,Express Store,Ahmedabad,Gujarat,Tier 1,West,2017-02-01,True,5175,4288126,10.16,EMP7318
+STR0109,RetailPulse Jaipur Express 109,Express Store,Jaipur,Rajasthan,Tier 2,West,2016-06-01,False,7020,3015637,9.38,EMP2988
+STR0110,RetailPulse Lucknow Express 110,Express Store,Lucknow,Uttar Pradesh,Tier 2,North,2015-01-01,True,8899,817745,4.17,EMP4119
+STR0111,RetailPulse Surat Express 111,Express Store,Surat,Gujarat,Tier 2,West,2020-05-01,True,7632,1259093,9.52,EMP3338
+STR0112,RetailPulse Kochi Express 112,Express Store,Kochi,Kerala,Tier 2,South,2017-01-01,True,1050,1565045,5.8,EMP8831
+STR0113,RetailPulse Nagpur Express 113,Express Store,Nagpur,Maharashtra,Tier 2,West,2014-03-01,True,7323,2784866,7.56,EMP6226
+STR0114,RetailPulse Indore Flagship 114,Flagship Store,Indore,Madhya Pradesh,Tier 2,North,2019-01-01,True,8983,2874442,4.94,EMP9287
+STR0115,RetailPulse Bhopal Shop-in-Shop 115,Shop-in-Shop,Bhopal,Madhya Pradesh,Tier 2,North,2015-04-01,False,4025,1419047,5.08,EMP2340
+STR0116,RetailPulse Visakhapatnam Express 116,Express Store,Visakhapatnam,Telangana,Tier 2,South,2012-07-01,True,1327,2418482,4.08,EMP1840
+STR0117,RetailPulse Patna Shop-in-Shop 117,Shop-in-Shop,Patna,Bihar,Tier 2,East,2020-09-01,True,14046,2210617,7.68,EMP2747
+STR0118,RetailPulse Vadodara Online 118,Online Only,Vadodara,Gujarat,Tier 2,West,2020-05-01,True,0,0,6.6,EMP6211
+STR0119,RetailPulse Ludhiana Flagship 119,Flagship Store,Ludhiana,Punjab,Tier 2,North,2019-01-01,True,8149,1691447,7.17,EMP5325
+STR0120,RetailPulse Coimbatore Shop-in-Shop 120,Shop-in-Shop,Coimbatore,Tamil Nadu,Tier 2,South,2020-03-01,True,14340,2310757,5.78,EMP9752
+STR0121,RetailPulse Madurai Express 121,Express Store,Madurai,Tamil Nadu,Tier 2,South,2021-07-01,True,12213,2799082,4.84,EMP1320
+STR0122,RetailPulse Nashik Flagship 122,Flagship Store,Nashik,Maharashtra,Tier 2,West,2013-10-01,True,6483,1929843,8.33,EMP7705
+STR0123,RetailPulse Mysore Express 123,Express Store,Mysore,Karnataka,Tier 2,South,2016-01-01,True,9629,2822842,7.52,EMP5732
+STR0124,RetailPulse Ranchi Online 124,Online Only,Ranchi,Jharkhand,Tier 2,East,2012-05-01,True,0,0,9.41,EMP8113
+STR0125,RetailPulse Raipur Online 125,Online Only,Raipur,Chhattisgarh,Tier 2,North,2019-04-01,True,0,0,9.1,EMP2417
+STR0126,RetailPulse Bhubaneswar Flagship 126,Flagship Store,Bhubaneswar,Odisha,Tier 2,East,2017-10-01,False,5682,1614635,8.77,EMP2002
+STR0127,RetailPulse Agra Flagship 127,Flagship Store,Agra,Uttar Pradesh,Tier 3,North,2021-06-01,True,13668,1731590,2.18,EMP1742
+STR0128,RetailPulse Varanasi Online 128,Online Only,Varanasi,Uttar Pradesh,Tier 3,North,2017-10-01,True,0,0,1.92,EMP7770
+STR0129,RetailPulse Meerut Flagship 129,Flagship Store,Meerut,Uttar Pradesh,Tier 3,North,2015-04-01,True,937,814884,4.4,EMP9020
+STR0130,RetailPulse Amritsar Shop-in-Shop 130,Shop-in-Shop,Amritsar,Punjab,Tier 3,North,2019-01-01,True,1509,1108674,2.99,EMP2413
+STR0131,RetailPulse Jodhpur Flagship 131,Flagship Store,Jodhpur,Rajasthan,Tier 3,West,2017-06-01,True,7159,390559,3.42,EMP1752
+STR0132,RetailPulse Udaipur Online 132,Online Only,Udaipur,Rajasthan,Tier 3,West,2012-03-01,False,0,0,1.93,EMP1850
+STR0133,RetailPulse Guwahati Online 133,Online Only,Guwahati,Assam,Tier 3,East,2012-12-01,True,0,0,3.27,EMP5278
+STR0134,RetailPulse Mangalore Online 134,Online Only,Mangalore,Karnataka,Tier 3,South,2021-05-01,True,0,0,3.1,EMP6754
+STR0135,RetailPulse Hubli Express 135,Express Store,Hubli,Karnataka,Tier 3,South,2021-02-01,True,8731,674856,3.55,EMP4910
+STR0136,RetailPulse Tiruchirappalli Flagship 136,Flagship Store,Tiruchirappalli,Tamil Nadu,Tier 3,South,2018-10-01,True,7809,918078,2.14,EMP5513
+STR0137,RetailPulse Tirupati Express 137,Express Store,Tirupati,Telangana,Tier 3,South,2020-11-01,True,2125,1866240,4.41,EMP8554
+STR0138,RetailPulse Vijayawada Express 138,Express Store,Vijayawada,Telangana,Tier 3,South,2018-06-01,True,2239,1317147,3.47,EMP4891
+STR0139,RetailPulse Warangal Express 139,Express Store,Warangal,Telangana,Tier 3,South,2017-03-01,True,5466,582968,2.06,EMP1815
+STR0140,RetailPulse Rajkot Express 140,Express Store,Rajkot,Gujarat,Tier 3,West,2015-11-01,True,5310,1495542,3.14,EMP8397
+STR0141,RetailPulse Jabalpur Express 141,Express Store,Jabalpur,Madhya Pradesh,Tier 3,North,2020-12-01,True,7821,341863,4.99,EMP9251
+STR0142,RetailPulse Gwalior Online 142,Online Only,Gwalior,Madhya Pradesh,Tier 3,North,2015-06-01,True,0,0,4.44,EMP2912
+STR0143,RetailPulse Dhanbad Express 143,Express Store,Dhanbad,Jharkhand,Tier 3,East,2021-11-01,True,13410,608823,4.0,EMP1279
+STR0144,RetailPulse Jamshedpur Flagship 144,Flagship Store,Jamshedpur,Jharkhand,Tier 3,East,2012-05-01,True,3869,435942,1.73,EMP2846
+STR0145,RetailPulse Bareilly Express 145,Express Store,Bareilly,Uttar Pradesh,Tier 3,North,2013-08-01,True,12701,622879,1.75,EMP3832
+STR0146,RetailPulse Aligarh Shop-in-Shop 146,Shop-in-Shop,Aligarh,Uttar Pradesh,Tier 3,North,2015-01-01,True,9546,1469964,1.98,EMP8564
+STR0147,RetailPulse Moradabad Express 147,Express Store,Moradabad,Uttar Pradesh,Tier 3,North,2021-03-01,True,5126,1538236,4.43,EMP3371
+STR0148,RetailPulse Saharanpur Online 148,Online Only,Saharanpur,Uttar Pradesh,Tier 3,North,2015-11-01,True,0,0,2.76,EMP7418
+STR0149,RetailPulse Gorakhpur Shop-in-Shop 149,Shop-in-Shop,Gorakhpur,Uttar Pradesh,Tier 3,North,2018-12-01,True,13509,505731,1.91,EMP8170
+STR0150,RetailPulse Bikaner Express 150,Express Store,Bikaner,Rajasthan,Tier 3,West,2018-02-01,True,12760,1160744,3.28,EMP3823
+STR0151,RetailPulse Mumbai Online 151,Online Only,Mumbai,Maharashtra,Tier 1,West,2014-12-01,True,0,0,17.06,EMP2305
+STR0152,RetailPulse Delhi Online 152,Online Only,Delhi,Delhi,Tier 1,North,2015-12-01,True,0,0,17.41,EMP5584
+STR0153,RetailPulse Bangalore Express 153,Express Store,Bangalore,Karnataka,Tier 1,South,2021-09-01,True,2748,2759130,15.3,EMP2318
+STR0154,RetailPulse Hyderabad Flagship 154,Flagship Store,Hyderabad,Telangana,Tier 1,South,2019-04-01,True,12418,4494991,11.68,EMP4422
+STR0155,RetailPulse Chennai Online 155,Online Only,Chennai,Tamil Nadu,Tier 1,South,2021-09-01,True,0,0,11.95,EMP9805
+STR0156,RetailPulse Kolkata Flagship 156,Flagship Store,Kolkata,West Bengal,Tier 1,East,2016-05-01,True,3551,4135328,16.98,EMP1312
+STR0157,RetailPulse Pune Express 157,Express Store,Pune,Maharashtra,Tier 1,West,2021-05-01,True,8969,3380160,15.48,EMP1192
+STR0158,RetailPulse Ahmedabad Online 158,Online Only,Ahmedabad,Gujarat,Tier 1,West,2012-02-01,True,0,0,13.15,EMP5057
+STR0159,RetailPulse Jaipur Shop-in-Shop 159,Shop-in-Shop,Jaipur,Rajasthan,Tier 2,West,2017-07-01,True,4030,1371700,7.4,EMP3822
+STR0160,RetailPulse Lucknow Flagship 160,Flagship Store,Lucknow,Uttar Pradesh,Tier 2,North,2017-06-01,True,1470,1492629,8.43,EMP2275
+STR0161,RetailPulse Surat Express 161,Express Store,Surat,Gujarat,Tier 2,West,2017-05-01,True,7325,1021154,5.74,EMP2964
+STR0162,RetailPulse Kochi Shop-in-Shop 162,Shop-in-Shop,Kochi,Kerala,Tier 2,South,2012-06-01,True,9226,2595116,4.95,EMP6299
+STR0163,RetailPulse Nagpur Shop-in-Shop 163,Shop-in-Shop,Nagpur,Maharashtra,Tier 2,West,2021-11-01,True,13883,3004128,5.87,EMP2262
+STR0164,RetailPulse Indore Online 164,Online Only,Indore,Madhya Pradesh,Tier 2,North,2019-01-01,True,0,0,7.03,EMP4920
+STR0165,RetailPulse Bhopal Online 165,Online Only,Bhopal,Madhya Pradesh,Tier 2,North,2012-05-01,True,0,0,4.04,EMP8531
+STR0166,RetailPulse Visakhapatnam Online 166,Online Only,Visakhapatnam,Telangana,Tier 2,South,2018-04-01,True,0,0,4.93,EMP4674
+STR0167,RetailPulse Patna Express 167,Express Store,Patna,Bihar,Tier 2,East,2014-05-01,True,6386,494631,7.88,EMP3056
+STR0168,RetailPulse Vadodara Online 168,Online Only,Vadodara,Gujarat,Tier 2,West,2017-03-01,True,0,0,4.06,EMP7592
+STR0169,RetailPulse Ludhiana Online 169,Online Only,Ludhiana,Punjab,Tier 2,North,2021-10-01,True,0,0,9.2,EMP3085
+STR0170,RetailPulse Coimbatore Shop-in-Shop 170,Shop-in-Shop,Coimbatore,Tamil Nadu,Tier 2,South,2016-10-01,True,9311,3598752,6.61,EMP1334
+STR0171,RetailPulse Madurai Express 171,Express Store,Madurai,Tamil Nadu,Tier 2,South,2019-09-01,True,7487,1629876,9.36,EMP2179
+STR0172,RetailPulse Nashik Express 172,Express Store,Nashik,Maharashtra,Tier 2,West,2018-05-01,True,4564,1948693,6.52,EMP7905
+STR0173,RetailPulse Mysore Express 173,Express Store,Mysore,Karnataka,Tier 2,South,2014-11-01,True,827,1467261,5.07,EMP5663
+STR0174,RetailPulse Ranchi Online 174,Online Only,Ranchi,Jharkhand,Tier 2,East,2012-06-01,True,0,0,6.02,EMP1537
+STR0175,RetailPulse Raipur Flagship 175,Flagship Store,Raipur,Chhattisgarh,Tier 2,North,2016-11-01,False,12161,3564264,6.28,EMP4069
+STR0176,RetailPulse Bhubaneswar Online 176,Online Only,Bhubaneswar,Odisha,Tier 2,East,2019-03-01,True,0,0,5.29,EMP6530
+STR0177,RetailPulse Agra Online 177,Online Only,Agra,Uttar Pradesh,Tier 3,North,2021-04-01,True,0,0,4.97,EMP6555
+STR0178,RetailPulse Varanasi Shop-in-Shop 178,Shop-in-Shop,Varanasi,Uttar Pradesh,Tier 3,North,2017-06-01,True,6198,387017,2.55,EMP7623
+STR0179,RetailPulse Meerut Express 179,Express Store,Meerut,Uttar Pradesh,Tier 3,North,2021-06-01,True,14525,886409,2.84,EMP6779
+STR0180,RetailPulse Amritsar Express 180,Express Store,Amritsar,Punjab,Tier 3,North,2018-01-01,True,4286,983694,1.79,EMP9426
+STR0181,RetailPulse Jodhpur Flagship 181,Flagship Store,Jodhpur,Rajasthan,Tier 3,West,2018-06-01,False,13663,1368333,2.55,EMP6952
+STR0182,RetailPulse Udaipur Shop-in-Shop 182,Shop-in-Shop,Udaipur,Rajasthan,Tier 3,West,2014-08-01,True,13813,618012,4.94,EMP9436
+STR0183,RetailPulse Guwahati Express 183,Express Store,Guwahati,Assam,Tier 3,East,2018-11-01,True,5599,588394,2.33,EMP8408
+STR0184,RetailPulse Mangalore Shop-in-Shop 184,Shop-in-Shop,Mangalore,Karnataka,Tier 3,South,2013-05-01,True,1185,683138,4.2,EMP4051
+STR0185,RetailPulse Hubli Online 185,Online Only,Hubli,Karnataka,Tier 3,South,2020-01-01,False,0,0,4.24,EMP7524
+STR0186,RetailPulse Tiruchirappalli Online 186,Online Only,Tiruchirappalli,Tamil Nadu,Tier 3,South,2014-09-01,True,0,0,4.57,EMP8651
+STR0187,RetailPulse Tirupati Flagship 187,Flagship Store,Tirupati,Telangana,Tier 3,South,2019-03-01,False,9013,430418,2.32,EMP7371
+STR0188,RetailPulse Vijayawada Flagship 188,Flagship Store,Vijayawada,Telangana,Tier 3,South,2019-03-01,True,7459,1686289,4.99,EMP8659
+STR0189,RetailPulse Warangal Online 189,Online Only,Warangal,Telangana,Tier 3,South,2020-12-01,True,0,0,3.7,EMP8804
+STR0190,RetailPulse Rajkot Flagship 190,Flagship Store,Rajkot,Gujarat,Tier 3,West,2018-04-01,False,7064,633710,1.97,EMP9991
+STR0191,RetailPulse Jabalpur Express 191,Express Store,Jabalpur,Madhya Pradesh,Tier 3,North,2021-07-01,True,5557,942171,2.37,EMP9962
+STR0192,RetailPulse Gwalior Flagship 192,Flagship Store,Gwalior,Madhya Pradesh,Tier 3,North,2019-07-01,True,7991,888368,2.25,EMP4042
+STR0193,RetailPulse Dhanbad Express 193,Express Store,Dhanbad,Jharkhand,Tier 3,East,2018-11-01,True,7737,424772,3.99,EMP1017
+STR0194,RetailPulse Jamshedpur Online 194,Online Only,Jamshedpur,Jharkhand,Tier 3,East,2017-12-01,True,0,0,4.05,EMP3879
+STR0195,RetailPulse Bareilly Online 195,Online Only,Bareilly,Uttar Pradesh,Tier 3,North,2020-03-01,False,0,0,2.42,EMP8767
+STR0196,RetailPulse Aligarh Online 196,Online Only,Aligarh,Uttar Pradesh,Tier 3,North,2014-11-01,True,0,0,1.51,EMP2469
+STR0197,RetailPulse Moradabad Online 197,Online Only,Moradabad,Uttar Pradesh,Tier 3,North,2017-11-01,True,0,0,1.9,EMP7348
+STR0198,RetailPulse Saharanpur Express 198,Express Store,Saharanpur,Uttar Pradesh,Tier 3,North,2018-04-01,True,14875,1027018,4.06,EMP2973
+STR0199,RetailPulse Gorakhpur Flagship 199,Flagship Store,Gorakhpur,Uttar Pradesh,Tier 3,North,2018-08-01,True,14446,375226,2.5,EMP4719
+STR0200,RetailPulse Bikaner Express 200,Express Store,Bikaner,Rajasthan,Tier 3,West,2019-06-01,True,6457,1153568,3.74,EMP3519
+STR0201,RetailPulse Mumbai Flagship 201,Flagship Store,Mumbai,Maharashtra,Tier 1,West,2017-01-01,True,14250,4619059,15.49,EMP7420
+STR0202,RetailPulse Delhi Express 202,Express Store,Delhi,Delhi,Tier 1,North,2017-11-01,True,7597,4707294,12.25,EMP9225
+STR0203,RetailPulse Bangalore Express 203,Express Store,Bangalore,Karnataka,Tier 1,South,2021-06-01,True,14749,3787238,17.63,EMP1218
+STR0204,RetailPulse Hyderabad Online 204,Online Only,Hyderabad,Telangana,Tier 1,South,2012-03-01,True,0,0,11.78,EMP3659
+STR0205,RetailPulse Chennai Express 205,Express Store,Chennai,Tamil Nadu,Tier 1,South,2014-10-01,True,12173,4339343,9.45,EMP5174
+STR0206,RetailPulse Kolkata Online 206,Online Only,Kolkata,West Bengal,Tier 1,East,2012-01-01,True,0,0,18.83,EMP2892
+STR0207,RetailPulse Pune Online 207,Online Only,Pune,Maharashtra,Tier 1,West,2019-07-01,True,0,0,14.83,EMP3009
+STR0208,RetailPulse Ahmedabad Flagship 208,Flagship Store,Ahmedabad,Gujarat,Tier 1,West,2012-05-01,True,1819,1473429,14.15,EMP4559
+STR0209,RetailPulse Jaipur Online 209,Online Only,Jaipur,Rajasthan,Tier 2,West,2020-01-01,True,0,0,4.48,EMP3664
+STR0210,RetailPulse Lucknow Flagship 210,Flagship Store,Lucknow,Uttar Pradesh,Tier 2,North,2015-08-01,True,14859,2263604,4.47,EMP3138
+STR0211,RetailPulse Surat Online 211,Online Only,Surat,Gujarat,Tier 2,West,2014-08-01,True,0,0,4.41,EMP7454
+STR0212,RetailPulse Kochi Shop-in-Shop 212,Shop-in-Shop,Kochi,Kerala,Tier 2,South,2015-11-01,True,9757,2886915,8.21,EMP5659
+STR0213,RetailPulse Nagpur Flagship 213,Flagship Store,Nagpur,Maharashtra,Tier 2,West,2013-06-01,True,12565,2914733,7.5,EMP9996
+STR0214,RetailPulse Indore Express 214,Express Store,Indore,Madhya Pradesh,Tier 2,North,2018-06-01,True,12232,2926344,9.6,EMP1289
+STR0215,RetailPulse Bhopal Shop-in-Shop 215,Shop-in-Shop,Bhopal,Madhya Pradesh,Tier 2,North,2017-10-01,True,5857,3099034,7.81,EMP6662
+STR0216,RetailPulse Visakhapatnam Flagship 216,Flagship Store,Visakhapatnam,Telangana,Tier 2,South,2013-08-01,True,10986,2920877,9.41,EMP8272
+STR0217,RetailPulse Patna Shop-in-Shop 217,Shop-in-Shop,Patna,Bihar,Tier 2,East,2016-04-01,True,3838,2963600,7.4,EMP8692
+STR0218,RetailPulse Vadodara Online 218,Online Only,Vadodara,Gujarat,Tier 2,West,2021-04-01,True,0,0,4.7,EMP2283
+STR0219,RetailPulse Ludhiana Express 219,Express Store,Ludhiana,Punjab,Tier 2,North,2019-08-01,True,6717,2832710,4.86,EMP8499
+STR0220,RetailPulse Coimbatore Express 220,Express Store,Coimbatore,Tamil Nadu,Tier 2,South,2018-01-01,True,7837,945938,5.92,EMP6568
+STR0221,RetailPulse Madurai Shop-in-Shop 221,Shop-in-Shop,Madurai,Tamil Nadu,Tier 2,South,2016-05-01,False,5063,564294,6.59,EMP9361
+STR0222,RetailPulse Nashik Shop-in-Shop 222,Shop-in-Shop,Nashik,Maharashtra,Tier 2,West,2018-01-01,True,14309,3424557,8.99,EMP6683
+STR0223,RetailPulse Mysore Shop-in-Shop 223,Shop-in-Shop,Mysore,Karnataka,Tier 2,South,2014-07-01,True,12962,3175863,4.8,EMP4464
+STR0224,RetailPulse Ranchi Online 224,Online Only,Ranchi,Jharkhand,Tier 2,East,2021-02-01,True,0,0,4.29,EMP9817
+STR0225,RetailPulse Raipur Online 225,Online Only,Raipur,Chhattisgarh,Tier 2,North,2020-02-01,True,0,0,8.33,EMP5361
+STR0226,RetailPulse Bhubaneswar Online 226,Online Only,Bhubaneswar,Odisha,Tier 2,East,2012-03-01,True,0,0,9.73,EMP8525
+STR0227,RetailPulse Agra Shop-in-Shop 227,Shop-in-Shop,Agra,Uttar Pradesh,Tier 3,North,2014-10-01,True,12706,601475,2.08,EMP9768
+STR0228,RetailPulse Varanasi Express 228,Express Store,Varanasi,Uttar Pradesh,Tier 3,North,2013-09-01,True,10544,1037962,3.03,EMP4985
+STR0229,RetailPulse Meerut Online 229,Online Only,Meerut,Uttar Pradesh,Tier 3,North,2012-02-01,True,0,0,3.35,EMP2839
+STR0230,RetailPulse Amritsar Shop-in-Shop 230,Shop-in-Shop,Amritsar,Punjab,Tier 3,North,2021-01-01,True,6973,1755648,2.95,EMP4965
+STR0231,RetailPulse Jodhpur Express 231,Express Store,Jodhpur,Rajasthan,Tier 3,West,2019-07-01,True,6044,641384,3.12,EMP8692
+STR0232,RetailPulse Udaipur Flagship 232,Flagship Store,Udaipur,Rajasthan,Tier 3,West,2014-11-01,True,5497,447647,2.05,EMP7752
+STR0233,RetailPulse Guwahati Online 233,Online Only,Guwahati,Assam,Tier 3,East,2018-06-01,True,0,0,2.01,EMP9942
+STR0234,RetailPulse Mangalore Express 234,Express Store,Mangalore,Karnataka,Tier 3,South,2013-11-01,True,9409,412863,1.99,EMP3549
+STR0235,RetailPulse Hubli Flagship 235,Flagship Store,Hubli,Karnataka,Tier 3,South,2020-08-01,False,13563,491787,4.94,EMP6808
+STR0236,RetailPulse Tiruchirappalli Express 236,Express Store,Tiruchirappalli,Tamil Nadu,Tier 3,South,2018-07-01,True,10415,1333732,2.29,EMP3686
+STR0237,RetailPulse Tirupati Online 237,Online Only,Tirupati,Telangana,Tier 3,South,2014-08-01,True,0,0,3.72,EMP1378
+STR0238,RetailPulse Vijayawada Shop-in-Shop 238,Shop-in-Shop,Vijayawada,Telangana,Tier 3,South,2021-02-01,True,5736,804704,4.14,EMP1452
+STR0239,RetailPulse Warangal Express 239,Express Store,Warangal,Telangana,Tier 3,South,2021-02-01,True,14817,1362250,4.93,EMP5278
+STR0240,RetailPulse Rajkot Online 240,Online Only,Rajkot,Gujarat,Tier 3,West,2020-01-01,True,0,0,2.74,EMP5038
+STR0241,RetailPulse Jabalpur Express 241,Express Store,Jabalpur,Madhya Pradesh,Tier 3,North,2012-05-01,True,2922,1411749,4.86,EMP4666
+STR0242,RetailPulse Gwalior Flagship 242,Flagship Store,Gwalior,Madhya Pradesh,Tier 3,North,2012-05-01,False,6005,594639,2.4,EMP7854
+STR0243,RetailPulse Dhanbad Express 243,Express Store,Dhanbad,Jharkhand,Tier 3,East,2016-07-01,False,892,1462056,1.74,EMP2892
+STR0244,RetailPulse Jamshedpur Express 244,Express Store,Jamshedpur,Jharkhand,Tier 3,East,2016-04-01,True,13032,642787,4.4,EMP4593
+STR0245,RetailPulse Bareilly Express 245,Express Store,Bareilly,Uttar Pradesh,Tier 3,North,2012-01-01,True,11546,1387056,1.62,EMP1748
+STR0246,RetailPulse Aligarh Express 246,Express Store,Aligarh,Uttar Pradesh,Tier 3,North,2018-09-01,True,8501,984592,4.31,EMP8125
+STR0247,RetailPulse Moradabad Flagship 247,Flagship Store,Moradabad,Uttar Pradesh,Tier 3,North,2021-05-01,True,12584,1202831,3.89,EMP5364
+STR0248,RetailPulse Saharanpur Online 248,Online Only,Saharanpur,Uttar Pradesh,Tier 3,North,2017-08-01,True,0,0,4.03,EMP4626
+STR0249,RetailPulse Gorakhpur Online 249,Online Only,Gorakhpur,Uttar Pradesh,Tier 3,North,2021-10-01,False,0,0,2.35,EMP7162
+STR0250,RetailPulse Bikaner Online 250,Online Only,Bikaner,Rajasthan,Tier 3,West,2021-01-01,True,0,0,4.39,EMP4616

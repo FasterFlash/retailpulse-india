@@ -1,0 +1,151 @@
+PromotionID,PromotionName,PromotionType,Channel,DiscountBand,DiscountPct,StartDate,DurationDays,BudgetINRLakhs,TargetCategory,IsActive
+PRM0001,Flash Sale — In-Store 1,Flash Sale,In-Store,30-50%,38.13,2023-10-10,20,92.29,Apparel,True
+PRM0002,Buy X Get Y — Affiliate 2,Buy X Get Y,Affiliate,30-50%,32.03,2020-09-11,2,30.94,Beauty & Personal Care,False
+PRM0003,Flat Discount — App Notification 3,Flat Discount,App Notification,30-50%,32.43,2022-06-07,6,140.02,Books & Stationery,False
+PRM0004,Flat Discount — In-Store 4,Flat Discount,In-Store,20-30%,27.75,2022-10-08,22,1.32,Apparel,True
+PRM0005,Percentage Discount — SMS 5,Percentage Discount,SMS,0-10%,2.89,2023-01-05,20,50.78,Books & Stationery,True
+PRM0006,Seasonal Sale — SMS 6,Seasonal Sale,SMS,30-50%,31.34,2022-04-13,28,149.99,Apparel,True
+PRM0007,Clearance Sale — App Notification 7,Clearance Sale,App Notification,50%+,68.23,2023-03-13,1,40.67,Beauty & Personal Care,True
+PRM0008,Flash Sale — SMS 8,Flash Sale,SMS,30-50%,35.42,2022-10-11,14,136.44,Books & Stationery,False
+PRM0009,Bundle Offer — Social Media 9,Bundle Offer,Social Media,30-50%,35.03,2020-08-14,16,24.09,Sports & Fitness,False
+PRM0010,Flat Discount — Social Media 10,Flat Discount,Social Media,30-50%,42.14,2021-03-03,3,126.67,Beauty & Personal Care,True
+PRM0011,Percentage Discount — Email 11,Percentage Discount,Email,0-10%,3.47,2023-04-08,28,28.57,Apparel,True
+PRM0012,Percentage Discount — Email 12,Percentage Discount,Email,50%+,59.2,2023-09-13,9,132.81,Books & Stationery,True
+PRM0013,Buy X Get Y — App Notification 13,Buy X Get Y,App Notification,20-30%,24.89,2023-01-13,12,79.41,Beauty & Personal Care,True
+PRM0014,Percentage Discount — App Notification 14,Percentage Discount,App Notification,30-50%,32.44,2022-03-03,19,6.52,Apparel,True
+PRM0015,Flash Sale — App Notification 15,Flash Sale,App Notification,20-30%,20.14,2020-12-08,8,105.05,Books & Stationery,True
+PRM0016,Flat Discount — Affiliate 16,Flat Discount,Affiliate,20-30%,22.39,2024-10-03,26,92.98,Electronics,False
+PRM0017,Flash Sale — App Notification 17,Flash Sale,App Notification,30-50%,45.24,2022-01-02,27,118.17,Beauty & Personal Care,True
+PRM0018,Percentage Discount — SMS 18,Percentage Discount,SMS,0-10%,3.68,2023-01-10,11,24.58,Sports & Fitness,True
+PRM0019,Seasonal Sale — Social Media 19,Seasonal Sale,Social Media,30-50%,38.32,2023-09-08,22,34.33,Grocery & Food,False
+PRM0020,Clearance Sale — Affiliate 20,Clearance Sale,Affiliate,10-20%,18.26,2021-06-03,21,62.36,Home & Kitchen,False
+PRM0021,Flat Discount — In-Store 21,Flat Discount,In-Store,30-50%,41.51,2021-07-06,11,141.42,Apparel,True
+PRM0022,Flash Sale — Social Media 22,Flash Sale,Social Media,10-20%,19.71,2022-10-08,23,24.87,Beauty & Personal Care,True
+PRM0023,Flat Discount — Email 23,Flat Discount,Email,0-10%,6.98,2022-12-08,29,103.07,Grocery & Food,False
+PRM0024,Buy X Get Y — Email 24,Buy X Get Y,Email,10-20%,18.45,2020-08-04,9,58.96,Home & Kitchen,True
+PRM0025,Flat Discount — App Notification 25,Flat Discount,App Notification,10-20%,10.28,2023-10-08,4,74.73,Sports & Fitness,True
+PRM0026,Clearance Sale — Affiliate 26,Clearance Sale,Affiliate,0-10%,6.12,2021-01-10,23,99.81,Home & Kitchen,True
+PRM0027,Seasonal Sale — App Notification 27,Seasonal Sale,App Notification,50%+,63.06,2021-12-04,15,12.53,Beauty & Personal Care,True
+PRM0028,Flat Discount — Email 28,Flat Discount,Email,10-20%,10.86,2020-02-11,4,104.97,Apparel,False
+PRM0029,Bundle Offer — Email 29,Bundle Offer,Email,0-10%,5.45,2023-07-07,28,72.99,Books & Stationery,True
+PRM0030,Bundle Offer — Affiliate 30,Bundle Offer,Affiliate,0-10%,9.21,2024-01-12,29,93.96,Grocery & Food,False
+PRM0031,Flat Discount — SMS 31,Flat Discount,SMS,10-20%,19.36,2021-08-01,19,102.88,Beauty & Personal Care,False
+PRM0032,Percentage Discount — Affiliate 32,Percentage Discount,Affiliate,20-30%,25.35,2023-04-11,21,27.08,Electronics,False
+PRM0033,Buy X Get Y — In-Store 33,Buy X Get Y,In-Store,50%+,66.19,2022-10-07,16,4.43,Apparel,True
+PRM0034,Flash Sale — App Notification 34,Flash Sale,App Notification,10-20%,17.8,2024-04-10,10,68.75,Apparel,True
+PRM0035,Seasonal Sale — Affiliate 35,Seasonal Sale,Affiliate,50%+,69.88,2024-01-09,16,100.64,Grocery & Food,True
+PRM0036,Bundle Offer — SMS 36,Bundle Offer,SMS,20-30%,27.8,2020-12-03,10,93.66,Beauty & Personal Care,True
+PRM0037,Percentage Discount — SMS 37,Percentage Discount,SMS,30-50%,38.23,2023-09-06,28,145.86,Beauty & Personal Care,True
+PRM0038,Clearance Sale — In-Store 38,Clearance Sale,In-Store,20-30%,26.61,2020-06-09,21,116.68,Electronics,True
+PRM0039,Seasonal Sale — Affiliate 39,Seasonal Sale,Affiliate,0-10%,4.12,2024-08-02,13,56.11,Grocery & Food,True
+PRM0040,Seasonal Sale — SMS 40,Seasonal Sale,SMS,30-50%,43.64,2021-10-07,10,73.16,Grocery & Food,False
+PRM0041,Percentage Discount — Email 41,Percentage Discount,Email,50%+,60.54,2023-12-08,2,93.5,Sports & Fitness,True
+PRM0042,Flash Sale — App Notification 42,Flash Sale,App Notification,10-20%,11.07,2024-02-04,30,125.17,Electronics,False
+PRM0043,Seasonal Sale — Email 43,Seasonal Sale,Email,10-20%,19.08,2022-10-09,11,118.0,Sports & Fitness,True
+PRM0044,Loyalty Reward — App Notification 44,Loyalty Reward,App Notification,20-30%,23.3,2021-09-02,18,133.58,Books & Stationery,False
+PRM0045,Flat Discount — Social Media 45,Flat Discount,Social Media,0-10%,6.03,2023-09-01,7,148.29,Sports & Fitness,True
+PRM0046,Percentage Discount — Email 46,Percentage Discount,Email,20-30%,23.17,2022-10-08,28,101.58,Grocery & Food,True
+PRM0047,Percentage Discount — Social Media 47,Percentage Discount,Social Media,20-30%,27.84,2023-12-04,12,17.03,Apparel,True
+PRM0048,Percentage Discount — Social Media 48,Percentage Discount,Social Media,20-30%,29.54,2023-03-02,20,61.46,Sports & Fitness,True
+PRM0049,Bundle Offer — Email 49,Bundle Offer,Email,10-20%,18.24,2020-07-12,2,30.97,Electronics,False
+PRM0050,Flat Discount — Social Media 50,Flat Discount,Social Media,0-10%,2.89,2020-04-13,30,51.14,Apparel,True
+PRM0051,Percentage Discount — App Notification 51,Percentage Discount,App Notification,10-20%,19.28,2024-04-14,24,5.35,Sports & Fitness,True
+PRM0052,Buy X Get Y — SMS 52,Buy X Get Y,SMS,10-20%,15.95,2020-06-03,19,73.79,Sports & Fitness,True
+PRM0053,Percentage Discount — App Notification 53,Percentage Discount,App Notification,10-20%,17.46,2023-11-10,8,103.44,Electronics,True
+PRM0054,Buy X Get Y — Social Media 54,Buy X Get Y,Social Media,10-20%,18.41,2022-08-09,1,86.7,Home & Kitchen,True
+PRM0055,Flash Sale — SMS 55,Flash Sale,SMS,20-30%,27.93,2023-12-08,15,98.2,Apparel,True
+PRM0056,Bundle Offer — SMS 56,Bundle Offer,SMS,30-50%,47.55,2024-07-04,23,16.65,Electronics,True
+PRM0057,Flash Sale — Affiliate 57,Flash Sale,Affiliate,0-10%,4.15,2022-11-04,16,44.27,Beauty & Personal Care,False
+PRM0058,Clearance Sale — App Notification 58,Clearance Sale,App Notification,20-30%,20.65,2024-06-11,12,148.19,Books & Stationery,False
+PRM0059,Bundle Offer — App Notification 59,Bundle Offer,App Notification,20-30%,28.65,2021-08-01,23,34.9,Beauty & Personal Care,False
+PRM0060,Percentage Discount — In-Store 60,Percentage Discount,In-Store,0-10%,8.49,2024-10-07,8,54.89,Books & Stationery,True
+PRM0061,Seasonal Sale — Social Media 61,Seasonal Sale,Social Media,10-20%,19.42,2021-12-02,27,39.94,Grocery & Food,True
+PRM0062,Flat Discount — In-Store 62,Flat Discount,In-Store,10-20%,16.69,2022-07-01,13,112.73,Beauty & Personal Care,True
+PRM0063,Clearance Sale — Affiliate 63,Clearance Sale,Affiliate,30-50%,31.8,2020-10-05,6,65.8,Beauty & Personal Care,True
+PRM0064,Flash Sale — Email 64,Flash Sale,Email,20-30%,25.39,2022-07-11,7,121.16,Sports & Fitness,False
+PRM0065,Flat Discount — In-Store 65,Flat Discount,In-Store,10-20%,10.94,2024-07-13,11,109.07,Electronics,False
+PRM0066,Percentage Discount — App Notification 66,Percentage Discount,App Notification,30-50%,31.53,2023-05-08,4,113.98,Beauty & Personal Care,True
+PRM0067,Clearance Sale — SMS 67,Clearance Sale,SMS,30-50%,35.19,2024-06-10,27,146.73,Beauty & Personal Care,True
+PRM0068,Bundle Offer — Email 68,Bundle Offer,Email,50%+,58.34,2022-03-13,6,107.55,Electronics,True
+PRM0069,Flat Discount — App Notification 69,Flat Discount,App Notification,10-20%,15.88,2020-03-12,14,46.9,Apparel,True
+PRM0070,Percentage Discount — SMS 70,Percentage Discount,SMS,10-20%,19.4,2023-06-02,2,123.43,Beauty & Personal Care,True
+PRM0071,Bundle Offer — Social Media 71,Bundle Offer,Social Media,10-20%,19.22,2024-12-06,28,61.53,Books & Stationery,False
+PRM0072,Percentage Discount — SMS 72,Percentage Discount,SMS,20-30%,29.76,2022-07-09,6,40.23,Grocery & Food,True
+PRM0073,Percentage Discount — Email 73,Percentage Discount,Email,10-20%,10.89,2020-11-12,23,80.91,Beauty & Personal Care,True
+PRM0074,Percentage Discount — In-Store 74,Percentage Discount,In-Store,0-10%,9.39,2020-08-04,1,116.36,Electronics,True
+PRM0075,Flat Discount — Social Media 75,Flat Discount,Social Media,30-50%,43.78,2022-06-01,7,69.3,Apparel,True
+PRM0076,Bundle Offer — App Notification 76,Bundle Offer,App Notification,0-10%,2.01,2020-03-10,21,105.45,Electronics,True
+PRM0077,Percentage Discount — SMS 77,Percentage Discount,SMS,0-10%,7.02,2020-05-07,3,42.75,Apparel,True
+PRM0078,Seasonal Sale — Email 78,Seasonal Sale,Email,10-20%,10.32,2024-04-01,13,70.8,Beauty & Personal Care,True
+PRM0079,Buy X Get Y — SMS 79,Buy X Get Y,SMS,50%+,60.93,2024-10-06,30,74.55,Apparel,True
+PRM0080,Percentage Discount — App Notification 80,Percentage Discount,App Notification,30-50%,31.12,2024-03-13,11,76.2,Home & Kitchen,False
+PRM0081,Percentage Discount — App Notification 81,Percentage Discount,App Notification,10-20%,13.12,2023-12-13,26,48.23,Home & Kitchen,True
+PRM0082,Percentage Discount — SMS 82,Percentage Discount,SMS,10-20%,15.65,2022-10-08,4,110.19,Beauty & Personal Care,False
+PRM0083,Buy X Get Y — In-Store 83,Buy X Get Y,In-Store,10-20%,10.57,2024-03-08,22,46.32,Electronics,True
+PRM0084,Buy X Get Y — Affiliate 84,Buy X Get Y,Affiliate,20-30%,22.91,2024-11-01,27,129.73,Electronics,True
+PRM0085,Clearance Sale — SMS 85,Clearance Sale,SMS,10-20%,19.44,2021-03-01,13,118.9,Sports & Fitness,True
+PRM0086,Buy X Get Y — SMS 86,Buy X Get Y,SMS,20-30%,29.48,2024-07-08,15,123.19,Apparel,True
+PRM0087,Percentage Discount — In-Store 87,Percentage Discount,In-Store,10-20%,14.93,2021-03-04,3,88.91,Sports & Fitness,True
+PRM0088,Percentage Discount — Email 88,Percentage Discount,Email,30-50%,33.24,2021-09-03,20,96.48,Grocery & Food,True
+PRM0089,Flat Discount — SMS 89,Flat Discount,SMS,50%+,58.11,2022-08-04,30,24.02,Beauty & Personal Care,True
+PRM0090,Clearance Sale — App Notification 90,Clearance Sale,App Notification,10-20%,13.74,2024-11-06,6,47.19,Books & Stationery,False
+PRM0091,Percentage Discount — SMS 91,Percentage Discount,SMS,0-10%,2.63,2024-07-14,16,76.32,Electronics,False
+PRM0092,Buy X Get Y — Affiliate 92,Buy X Get Y,Affiliate,10-20%,19.82,2020-11-13,18,98.85,Books & Stationery,True
+PRM0093,Loyalty Reward — Affiliate 93,Loyalty Reward,Affiliate,20-30%,23.22,2020-10-06,29,15.04,Books & Stationery,True
+PRM0094,Percentage Discount — Email 94,Percentage Discount,Email,10-20%,14.93,2020-01-02,19,4.77,Books & Stationery,True
+PRM0095,Flash Sale — Email 95,Flash Sale,Email,20-30%,21.31,2023-06-14,28,125.24,Books & Stationery,True
+PRM0096,Clearance Sale — Email 96,Clearance Sale,Email,0-10%,8.53,2024-10-06,26,130.21,Electronics,True
+PRM0097,Bundle Offer — Affiliate 97,Bundle Offer,Affiliate,10-20%,11.44,2023-02-13,21,116.78,Apparel,False
+PRM0098,Bundle Offer — App Notification 98,Bundle Offer,App Notification,20-30%,29.24,2020-12-08,28,26.02,Apparel,True
+PRM0099,Flat Discount — Social Media 99,Flat Discount,Social Media,10-20%,14.11,2020-02-08,11,94.94,Books & Stationery,True
+PRM0100,Loyalty Reward — App Notification 100,Loyalty Reward,App Notification,30-50%,45.37,2020-04-02,27,133.83,Grocery & Food,True
+PRM0101,Loyalty Reward — Social Media 101,Loyalty Reward,Social Media,20-30%,27.64,2024-03-03,20,48.85,Beauty & Personal Care,True
+PRM0102,Flat Discount — SMS 102,Flat Discount,SMS,0-10%,2.32,2020-03-13,2,141.98,Beauty & Personal Care,True
+PRM0103,Buy X Get Y — Email 103,Buy X Get Y,Email,20-30%,21.53,2020-02-14,21,93.18,Apparel,True
+PRM0104,Percentage Discount — SMS 104,Percentage Discount,SMS,20-30%,26.86,2024-07-02,13,115.15,Apparel,True
+PRM0105,Flat Discount — App Notification 105,Flat Discount,App Notification,20-30%,24.47,2021-06-04,3,55.56,Beauty & Personal Care,False
+PRM0106,Flash Sale — App Notification 106,Flash Sale,App Notification,10-20%,10.28,2021-08-09,13,86.19,Grocery & Food,True
+PRM0107,Flat Discount — In-Store 107,Flat Discount,In-Store,10-20%,18.01,2024-06-05,2,30.4,Beauty & Personal Care,False
+PRM0108,Buy X Get Y — SMS 108,Buy X Get Y,SMS,0-10%,5.8,2020-02-13,29,138.33,Home & Kitchen,True
+PRM0109,Flash Sale — App Notification 109,Flash Sale,App Notification,0-10%,2.92,2020-02-06,4,111.47,Grocery & Food,True
+PRM0110,Seasonal Sale — SMS 110,Seasonal Sale,SMS,20-30%,24.87,2024-06-07,27,118.72,Beauty & Personal Care,False
+PRM0111,Seasonal Sale — Email 111,Seasonal Sale,Email,10-20%,14.59,2020-12-03,18,91.06,Apparel,False
+PRM0112,Bundle Offer — Social Media 112,Bundle Offer,Social Media,10-20%,13.56,2020-04-01,27,120.98,Electronics,False
+PRM0113,Buy X Get Y — SMS 113,Buy X Get Y,SMS,30-50%,49.4,2020-09-10,29,71.08,Apparel,True
+PRM0114,Seasonal Sale — In-Store 114,Seasonal Sale,In-Store,10-20%,12.47,2022-02-02,23,80.29,Beauty & Personal Care,False
+PRM0115,Percentage Discount — Social Media 115,Percentage Discount,Social Media,30-50%,46.3,2023-05-13,24,72.51,Apparel,True
+PRM0116,Buy X Get Y — App Notification 116,Buy X Get Y,App Notification,30-50%,34.84,2021-11-04,29,102.64,Home & Kitchen,True
+PRM0117,Seasonal Sale — In-Store 117,Seasonal Sale,In-Store,0-10%,8.94,2022-12-02,13,107.63,Electronics,True
+PRM0118,Buy X Get Y — Affiliate 118,Buy X Get Y,Affiliate,10-20%,16.29,2024-11-08,2,98.96,Grocery & Food,True
+PRM0119,Buy X Get Y — App Notification 119,Buy X Get Y,App Notification,30-50%,31.49,2021-05-09,11,48.82,Grocery & Food,True
+PRM0120,Loyalty Reward — SMS 120,Loyalty Reward,SMS,10-20%,14.3,2020-09-03,14,78.18,Beauty & Personal Care,True
+PRM0121,Seasonal Sale — In-Store 121,Seasonal Sale,In-Store,30-50%,48.84,2022-06-11,23,148.76,Home & Kitchen,False
+PRM0122,Seasonal Sale — Social Media 122,Seasonal Sale,Social Media,0-10%,4.59,2022-03-10,23,18.3,Beauty & Personal Care,True
+PRM0123,Flat Discount — Social Media 123,Flat Discount,Social Media,0-10%,8.22,2021-10-09,6,148.58,Electronics,True
+PRM0124,Percentage Discount — SMS 124,Percentage Discount,SMS,0-10%,3.55,2021-01-01,29,100.18,Apparel,True
+PRM0125,Buy X Get Y — App Notification 125,Buy X Get Y,App Notification,30-50%,49.77,2022-09-11,23,113.46,Electronics,False
+PRM0126,Percentage Discount — SMS 126,Percentage Discount,SMS,30-50%,34.86,2021-12-10,5,63.07,Grocery & Food,True
+PRM0127,Flash Sale — SMS 127,Flash Sale,SMS,10-20%,11.37,2021-06-01,24,140.3,Home & Kitchen,True
+PRM0128,Percentage Discount — Affiliate 128,Percentage Discount,Affiliate,20-30%,27.24,2020-09-12,25,52.72,Apparel,True
+PRM0129,Bundle Offer — App Notification 129,Bundle Offer,App Notification,30-50%,30.85,2021-10-02,7,138.63,Grocery & Food,True
+PRM0130,Percentage Discount — Email 130,Percentage Discount,Email,20-30%,24.61,2021-08-13,1,96.8,Sports & Fitness,True
+PRM0131,Flash Sale — Email 131,Flash Sale,Email,0-10%,5.97,2020-04-14,25,138.5,Beauty & Personal Care,False
+PRM0132,Flat Discount — Email 132,Flat Discount,Email,10-20%,13.92,2020-03-02,25,6.52,Apparel,False
+PRM0133,Bundle Offer — App Notification 133,Bundle Offer,App Notification,10-20%,15.29,2022-07-03,12,118.98,Apparel,True
+PRM0134,Flash Sale — Email 134,Flash Sale,Email,0-10%,6.37,2024-03-08,29,34.97,Electronics,True
+PRM0135,Percentage Discount — App Notification 135,Percentage Discount,App Notification,10-20%,11.8,2021-03-12,25,109.67,Apparel,False
+PRM0136,Percentage Discount — Email 136,Percentage Discount,Email,10-20%,19.71,2024-01-12,5,79.88,Electronics,False
+PRM0137,Percentage Discount — Social Media 137,Percentage Discount,Social Media,0-10%,9.76,2022-06-05,15,51.62,Home & Kitchen,False
+PRM0138,Clearance Sale — App Notification 138,Clearance Sale,App Notification,20-30%,28.82,2022-08-08,7,33.39,Beauty & Personal Care,False
+PRM0139,Percentage Discount — Social Media 139,Percentage Discount,Social Media,10-20%,10.61,2023-03-02,12,46.51,Books & Stationery,True
+PRM0140,Seasonal Sale — SMS 140,Seasonal Sale,SMS,30-50%,41.84,2022-06-10,28,59.66,Home & Kitchen,False
+PRM0141,Percentage Discount — In-Store 141,Percentage Discount,In-Store,0-10%,4.67,2020-04-06,14,37.81,Grocery & Food,False
+PRM0142,Loyalty Reward — In-Store 142,Loyalty Reward,In-Store,20-30%,22.96,2024-09-02,15,132.99,Grocery & Food,False
+PRM0143,Percentage Discount — SMS 143,Percentage Discount,SMS,0-10%,7.52,2023-08-09,30,122.5,Books & Stationery,False
+PRM0144,Seasonal Sale — SMS 144,Seasonal Sale,SMS,10-20%,13.31,2020-08-01,29,123.34,Home & Kitchen,True
+PRM0145,Bundle Offer — SMS 145,Bundle Offer,SMS,50%+,68.58,2020-08-14,5,122.77,Beauty & Personal Care,False
+PRM0146,Seasonal Sale — Social Media 146,Seasonal Sale,Social Media,10-20%,10.4,2022-06-09,28,124.19,Beauty & Personal Care,True
+PRM0147,Flash Sale — In-Store 147,Flash Sale,In-Store,0-10%,5.72,2024-10-07,28,64.02,Home & Kitchen,False
+PRM0148,Percentage Discount — Email 148,Percentage Discount,Email,50%+,67.45,2023-12-01,8,136.78,Apparel,True
+PRM0149,Percentage Discount — App Notification 149,Percentage Discount,App Notification,20-30%,22.99,2023-03-04,1,36.12,Electronics,True
+PRM0150,Percentage Discount — App Notification 150,Percentage Discount,App Notification,0-10%,7.64,2021-12-11,11,142.0,Sports & Fitness,True
